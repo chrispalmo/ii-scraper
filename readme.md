@@ -10,12 +10,10 @@ ii-scraper-2 is a python script built for members of https://www.intelligentinve
 
 Before running, create "keys.py" in the root directory:
 
-> KEYS = {
-
-    'username': '[YOUR_USERNAME_HERE',
-    'password': 'YOUR_PASSWORD_HERE'
-
-}
+    KEYS = {
+        'username': 'YOUR_USERNAME_HERE',
+        'password': 'YOUR_PASSWORD_HERE'
+    }
 
 #### Project setup notes:
 
