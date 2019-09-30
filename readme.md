@@ -14,6 +14,7 @@ Before running, create "keys.py" in the root directory:
         'username': 'YOUR_USERNAME_HERE',
         'password': 'YOUR_PASSWORD_HERE'
     }
+    DRIVER_LOCATION = r'ABSOLUTE_PATH_TO_PROJECT_DIRECTORY\chromedriver.exe'
 
 #### Project setup notes:
 
